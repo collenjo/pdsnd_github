@@ -15,3 +15,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Added comments
 Completing the Git course
+
+### Updated bikeshare.py file
+Added in additional comments about the config
