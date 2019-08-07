@@ -177,7 +177,7 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration. Very important to do this"""
+    """Displays statistics on the total and average trip duration. Very important to do this" because it helps with the trips""
     
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
