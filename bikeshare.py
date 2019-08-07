@@ -84,7 +84,7 @@ def get_filters():
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
-
+    This is an import piece of information on loading the data
     Args:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -178,8 +178,8 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
-
+    """Displays statistics on the total and average trip duration. Very important to do this" because it helps with the trips""
+    
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
 
